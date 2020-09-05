@@ -1,0 +1,1 @@
+A repository for problem statements, data and some of my mediocre solutions from NZPC 2019 that is mostly to practise using Git with GitHub.
